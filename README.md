@@ -1,11 +1,11 @@
 <h3 align="center">𝚃𝙷𝙴 𝙲𝙻𝙾𝙽𝙴 𝙾𝙵</h3>
-<h2 align="center"> <a href="https://github.com/H1M4N5HU0P/LOVE-USERBOT">🔥 𝚃𝙷𝙴 LOVEBOT 🔥</a></h2>
+<h2 align="center"> <a href="https://github.com/loveverma83/LOVE-USERBOT">🔥 𝚃𝙷𝙴 LOVEBOT 🔥</a></h2>
 
 
-<h1 align="center">⚡ love 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</h1>
+<h1 align="center">⚡ LOVE 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</h1>
 
 
-[![MAFIA LOGO]()]()
+
 
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
